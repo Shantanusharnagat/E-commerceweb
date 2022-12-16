@@ -1,0 +1,22 @@
+.nav {
+    height: 5.5rem;
+
+}
+
+.routes {
+    margin-inline-start: 50vh;
+    gap: 20px;
+}
+
+.logo {
+    padding-left: 4rem;
+}
+
+.iconsnav {
+    height: 30px;
+}
+
+.gogicons {
+    margin-top: 0.5rem;
+    cursor: pointer;
+}

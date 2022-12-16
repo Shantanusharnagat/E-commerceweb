@@ -1,0 +1,36 @@
+.swetsimg {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.swets {
+    height: 100%;
+    width: 100px;
+    display: flex;
+    gap: 10px;
+
+}
+
+.swetscont {
+    width: 90%;
+
+}
+
+.divspo {
+    width: 300px;
+    height: 300px;
+    aspect-ratio: 300/300;
+    background-color: aqua;
+    object-fit: cover;
+    position: relative;
+    text-align: center;
+    color: gray;
+}
+
+
+.divol {
+    text-align: center;
+    color: gray;
+
+}

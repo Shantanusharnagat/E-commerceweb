@@ -1,38 +1,28 @@
-.App {
-  text-align: center;
-}
+ @import url('https://fonts.googleapis.com/css2?family=Domine:wght@400;500;600&display=swap');
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+ .bg {
+     background-image: url("../src/images/Media/vectors.png");
+     font-family: 'Domine', serif;
+     background-attachment: fixed;
+ }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+ body {
+     overflow-x: hidden;
+ }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+ .btndiv {
+     justify-content: center;
+     display: flex;
+     align-items: center;
+     margin-top: 3rem;
+ }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+ .btnshop {
+     background-color: blueviolet;
+     font-size: larger;
+     width: 9rem;
+     height: 3.5rem;
+     color: white;
+     border: none;
+     border-radius: 25px;
+ }

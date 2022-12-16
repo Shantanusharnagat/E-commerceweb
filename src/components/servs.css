@@ -1,0 +1,31 @@
+.rows {
+    border-color: black;
+    display: flex;
+    justify-content: center;
+
+}
+
+.cont {
+    margin-top: 40px;
+    width: 70%;
+
+}
+
+.icons {
+    margin-left: 10px;
+    height: 60px;
+    float: left;
+}
+
+.text {
+    padding-left: 90px;
+
+}
+
+.line {
+    border-left: 1px solid black;
+    height: 80px;
+    float: right;
+    margin-top: -90px;
+
+}

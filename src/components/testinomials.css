@@ -1,0 +1,41 @@
+.contest {
+    margin-top: 4rem;
+    display: flex;
+}
+
+.left {
+    margin-left: 10rem;
+    width: 80vh;
+}
+
+.right {
+    width: 80vh;
+}
+
+.left>h1 {
+    font-family: 'Domine', serif;
+    font-weight: 700;
+    font-size: 60px;
+    color: deeppink;
+}
+
+.testi {
+    color: blueviolet;
+    font-style: bold;
+}
+
+.right {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.right>h1 {
+    font-size: 200px;
+}
+
+.right>h2 {
+    margin-top: -2rem;
+    font-size: 30px;
+}

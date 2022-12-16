@@ -1,0 +1,67 @@
+.imstxt {
+    width: 600px;
+    margin-left: 30vh;
+}
+
+.pop {
+    height: 50vh;
+    display: flex;
+
+}
+
+.header {
+    padding-top: 12px;
+    color: purple;
+    font-weight: bold;
+}
+
+.bgpara {
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 75px;
+
+
+}
+
+.btn1 {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 30px;
+    border: none;
+    height: 50px;
+    margin-top: 15px;
+
+    width: 20vh;
+}
+
+
+.btn2 {
+    background-color: deeppink;
+    color: white;
+    border-radius: 30px;
+    border: none;
+    height: 50px;
+
+    width: 20vh;
+    margin-left: 20px;
+
+}
+
+/* .man {
+    float: right;
+    margin-right: 10%;
+    object-fit: cover;
+    position: relative;
+    display: flex;
+    flex-direction: initial;
+    height: 100%;
+    width: 30%;
+
+
+
+} */
+.man {
+    position: relative;
+    flex-direction: initial;
+    overflow: hidden;
+}
