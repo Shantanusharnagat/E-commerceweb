@@ -27,7 +27,7 @@ function AutoLayoutExample() {
           </Col>
           <Col className='divol'><div className='divspo'>
           <img src={swts2} className="swetsimg" alt="swet"/>
-          </div><p>Short Sleev Tshirt</p></Col>
+          </div><p>Short Sleev Tshirt</p><p>Price</p><p>Add to cart</p></Col>
           <Col className='divol'><div className='divspo'>
 
           <img src={swts3} className="swetsimg" alt="swet"/>

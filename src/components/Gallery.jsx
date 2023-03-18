@@ -9,16 +9,22 @@ import box4 from "../images/Media/retail-black-friday-small-banner-1-opt.jpg"
 import box5 from "../images/Media/retail-black-friday-small-banner-2-opt.jpg"
 import box6 from "../images/Media/baner-flat-fashion-7.jpg"
 function ResponsiveExample() {
+
+  
   return (
     <Container className='gals'>
       {/* Stack the columns on mobile by making one full-width and the other half-width */}
       <Row>
        
         <Col xs={6} md={4} className="box1 box">
+        
           <img src={box1} className="boxy" alt="box1"/>
+          
           <div className='lbl'>
           <h4>T Shirts</h4>
+          
           <p className='view'>View all</p>
+
           </div>
           
         </Col>

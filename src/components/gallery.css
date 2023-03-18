@@ -15,6 +15,12 @@
     width: 48vh;
 }
 
+.box:hover {
+    border-radius: 25px;
+}
+
+
+
 .lbl {
     margin-top: -90px;
     margin-inline-start: 2rem;
